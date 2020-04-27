@@ -6,7 +6,7 @@ export default class demo extends React.Component {
     return (
       <View>
         <App />
-        <p></p>
+        <p>1</p>
       </View>
     );
   }
