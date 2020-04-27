@@ -6,6 +6,7 @@ export default class demo extends React.Component {
     return (
       <View>
         <App />
+        <p></p>
       </View>
     );
   }
