@@ -7,6 +7,7 @@ export default class demo extends React.Component {
       <View>
         <App />
         <p>1</p>
+        <p>2</p>
       </View>
     );
   }
